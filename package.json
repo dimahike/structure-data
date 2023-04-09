@@ -1,0 +1,25 @@
+{
+  "name": "computer-science",
+  "version": "1.0.0",
+  "description": "Base structure data and algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimahike/structure-data.git"
+  },
+  "author": "Dmytro Poliakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimahike/structure-data/issues"
+  },
+  "homepage": "https://github.com/dimahike/structure-data#readme",
+  "dependencies": {
+    "@types/jasmine": "^4.3.1",
+    "jasmine": "^4.6.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
